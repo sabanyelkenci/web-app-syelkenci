@@ -1,0 +1,23 @@
+{
+  "name": "web-app-syelkenci",
+  "version": "1.0.0",
+  "description": "This is my very first node.js project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabanyelkenci/web-app-syelkenci.git"
+  },
+  "author": "Saban Yelkenci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabanyelkenci/web-app-syelkenci/issues"
+  },
+  "homepage": "https://github.com/sabanyelkenci/web-app-syelkenci#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
